@@ -1,0 +1,12 @@
+c:\users\arao\documents\visual studio 2017\Projects\AraoAuthProvider\AraoAuthProvider\bin\Debug\netcoreapp2.0\AraoAuthProvider.deps.json
+c:\users\arao\documents\visual studio 2017\Projects\AraoAuthProvider\AraoAuthProvider\bin\Debug\netcoreapp2.0\AraoAuthProvider.runtimeconfig.json
+c:\users\arao\documents\visual studio 2017\Projects\AraoAuthProvider\AraoAuthProvider\bin\Debug\netcoreapp2.0\AraoAuthProvider.runtimeconfig.dev.json
+c:\users\arao\documents\visual studio 2017\Projects\AraoAuthProvider\AraoAuthProvider\bin\Debug\netcoreapp2.0\AraoAuthProvider.dll
+c:\users\arao\documents\visual studio 2017\Projects\AraoAuthProvider\AraoAuthProvider\obj\Debug\netcoreapp2.0\AraoAuthProvider.csprojResolveAssemblyReference.cache
+c:\users\arao\documents\visual studio 2017\Projects\AraoAuthProvider\AraoAuthProvider\obj\Debug\netcoreapp2.0\AraoAuthProvider.csproj.CoreCompileInputs.cache
+c:\users\arao\documents\visual studio 2017\Projects\AraoAuthProvider\AraoAuthProvider\obj\Debug\netcoreapp2.0\AraoAuthProvider.AssemblyInfoInputs.cache
+c:\users\arao\documents\visual studio 2017\Projects\AraoAuthProvider\AraoAuthProvider\obj\Debug\netcoreapp2.0\AraoAuthProvider.AssemblyInfo.cs
+c:\users\arao\documents\visual studio 2017\Projects\AraoAuthProvider\AraoAuthProvider\bin\Debug\netcoreapp2.0\AraoAuthProvider.pdb
+c:\users\arao\documents\visual studio 2017\Projects\AraoAuthProvider\AraoAuthProvider\obj\Debug\netcoreapp2.0\AraoAuthProvider.dll
+c:\users\arao\documents\visual studio 2017\Projects\AraoAuthProvider\AraoAuthProvider\obj\Debug\netcoreapp2.0\AraoAuthProvider.pdb
+c:\users\arao\documents\visual studio 2017\Projects\AraoAuthProvider\AraoAuthProvider\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
